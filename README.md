@@ -28,8 +28,7 @@ number of products provided to clients,
 whether there is a credit card,
 active client,
 client salary,
-left or not.
-useful libraries
+churn (yes/no)
 
 Libraries: **pandas, numpy, matplotlib, seaborn, scikit learn, scipy**
 
@@ -44,7 +43,6 @@ Conducting an evaluation of the A/B test results after the introduction of an im
 setting the date with user actions,
 auxiliary date sets (user data, marketing events calendar, etc.),
 Technical specifications.
-libraries used
 
 Libraries: **pandas, numpy, matplotlib, seaborn, math, datetime, scipy**
 
